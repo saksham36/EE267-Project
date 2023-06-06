@@ -22,3 +22,5 @@ Now move to the XR Plugin Management menu on the left, select the Android tab on
 To load the game on the oculus, ensure that the Oculus is in Developer mode, and after plugging the Oculus into the computer via the USB cable, accept the message that appears on the headset. Then go to File -> Build Settings in Unity. Select Android as the platform, and Select Oculus Quest 2 as the Run Device. If it does not appear, press refresh.
 
 Press Build and Run. The first time running may take some time to load the project. When this is completed you can enjoy the game on the Oculus Quest 2.
+
+Project jointly developed by @oliver-johnson1 and @saksham36
